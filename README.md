@@ -1,8 +1,8 @@
 # 🍳 Dapur Kilat — Game Masak Warung
 
-[![competition](https://make.fun/badge/best-cooking-game-20261125-0137/competition?owner=Alim-14-code&repo=best-cooking-game-20261125-0137)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/rank?owner=Alim-14-code&repo=best-cooking-game-20261125-0137)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/reward?owner=Alim-14-code&repo=best-cooking-game-20261125-0137)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Alim-14-code/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Alim-14-code/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 Game masak warung asli: layani pesanan pelanggan secepat kilat di dapur warung
 Indonesia. Semua gambar digambar di canvas, semua suara disintesis dengan
